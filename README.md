@@ -1,4 +1,5 @@
-This is a Kinetic ODE45 Model of Syngas production via photo- and sono-catalytic conversion methods of an unknown PET variant.
+This is a Kinetic ODE45 Model of Syngas production via photo- and sono-catalytic conversion methods of an unknown PET variant. 
+Only a single data point was use, so this model is only a concept; currently, it is unreliable in practice.
 
 Plots Produced:
 
