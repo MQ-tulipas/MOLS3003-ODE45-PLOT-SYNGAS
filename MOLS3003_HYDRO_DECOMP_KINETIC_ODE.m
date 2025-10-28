@@ -52,6 +52,6 @@ ax = gca; % Sets magnitude of decimal points to 0.XX
 ax.YAxis.TickLabelFormat = '%.2f';
 xlabel('Time (s)');
 ylabel('Concentration (mol/g)');
-legend('$H_{2}$','$CO$','$CH_{4}$','$CO_{2}$', 'interpreter', 'latex');
+legend('$H_{2}$','$CO$','$CH_{4}$','$CO_{2}$', 'interpreter', 'latex', 'Location','northwest');
 title('Kinetic Model of PET → Na_2TPA + EG → Syngas');
 grid on;
